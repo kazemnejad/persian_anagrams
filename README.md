@@ -11,6 +11,6 @@ which contains 382K word. <br/>
 Please note that this dataset is originally collected by [reza1615](https://github.com/reza1615).
 
 # How to use
-1. `https://github.com/kazemnejad/persian_anagrams.git`
+1. `git clone https://github.com/kazemnejad/persian_anagrams.git`
 2. `cd persian_anagrams`
 3. `python3 anagrams.py`
