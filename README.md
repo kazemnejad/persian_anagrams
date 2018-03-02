@@ -13,4 +13,4 @@ Please note that this dataset is originally collected by [reza1615](https://gith
 # How to use
 1. `git clone https://github.com/kazemnejad/persian_anagrams.git`
 2. `cd persian_anagrams`
-3. `python3 anagrams.py`
+3. `python3 anagram.py`
