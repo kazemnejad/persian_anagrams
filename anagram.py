@@ -17,9 +17,8 @@ def anagrams(word):
 
 
 def main_loop():
-    while (True):
-        word = input(
-            "Enter a word to find its Anagrams (Press Enter to exit)\n")
+    while True:
+        word = input("Enter a word to find its Anagrams (Press Enter to exit)\n")
         if word == "":
             break
 
