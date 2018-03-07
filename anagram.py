@@ -4,7 +4,7 @@ words = set()
 
 
 def read_words():
-    wordsFile = open("dataset.txt", "r")
+    wordsFile = open("dataset.txt", "r", encoding="utf8")
     for line in wordsFile:
         words.add(line[:-1])
 
